@@ -14,7 +14,7 @@
 
 <b>⚠️Vulnerability Assesment Report</b>
 
-<h3><a href = "https://github.com/kendalldollarton/kendalldollarton/files/14336442/Vulnerability.assessment.report.pdf">Vulnerability Assesment<a/><h3/>
+<h3><a href = "https://github.com/kendalldollarton/Vulnerability-Assesment-Report/blob/main/Vulnerability%20assessment%20report%20-2.pdf">Vulnerability Assesment<a/><h3/>
 
 <b>📊Data Leak Assesment - Creating a Security Plan</b>
 
