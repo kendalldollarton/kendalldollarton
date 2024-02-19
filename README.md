@@ -18,7 +18,7 @@
 
 <b>Data Leak Assesment - Creating a Security Plan</b>
 
-<h3><a href = "https://github.com/kendalldollarton/kendalldollarton/files/14336610/Data.leak.worksheet.pdf">Data Leak <a/><h3/>
+<h3><a href = "https://github.com/kendalldollarton/kendalldollarton/files/14336610/Data.leak.worksheet.pdf">Data Leak Assesment<a/><h3/>
 
 
 <b> Certifications</b><i>
