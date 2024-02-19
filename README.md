@@ -15,3 +15,13 @@
 <b>Vulnerability Assesment Report</b>
 
 <h3><a href = "https://github.com/kendalldollarton/kendalldollarton/files/14336442/Vulnerability.assessment.report.pdf">Vulnerability Assesment<a/><h3/>
+
+<Data Leak Assesment - Creating a Security Plan
+
+<h3><a href = "https://github.com/kendalldollarton/kendalldollarton/files/14336610/Data.leak.worksheet.pdf">VData Leak <a/><h3/>
+
+
+<b> Certifications</b><i>
+- Comptia A + (Expected 3/31)
+- Google Cybersecurity Proffessional
+- Cisco Introduction to Cybersecurity 
