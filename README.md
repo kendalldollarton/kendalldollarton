@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Information Technology & Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/kendalldollarton/">
+<h1>Welcome, I'm Kendall! <a href="https://www.linkedin.com/in/kendalldollarton/">
   
 <h2>👨‍💻 Information Technology/ Cybersecurity Projects:</h2>
 
