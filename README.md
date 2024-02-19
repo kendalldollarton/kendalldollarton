@@ -1,5 +1,5 @@
 <h1>Welcome, I'm Kendall! 
-Information Technology & Cybersecurity Professional
+<h2> </h2>Information Technology/ Cybersecurity Professional
   
 <h2>👨‍💻 Information Technology/ Cybersecurity Projects:</h2>
 
