@@ -10,7 +10,7 @@
 
 <b>📐How Organizations Should Measure Risk</b>
 
-<h3><a href = "https://github.com/kendalldollarton/kendalldollarton/files/14336175/Risk.register.assignment.pdf">Risk Matrix<a/><h3/>
+<h3><a href = "https://github.com/kendalldollarton/Measuring-Organizational-Risk/blob/main/Risk%20register%20assignment.pdf">Risk Matrix<a/><h3/>
 
 <b>⚠️Vulnerability Assesment Report</b>
 
