@@ -16,7 +16,7 @@
 
 <h3><a href = "https://github.com/kendalldollarton/kendalldollarton/files/14336442/Vulnerability.assessment.report.pdf">Vulnerability Assesment<a/><h3/>
 
-<Data Leak Assesment - Creating a Security Plan
+<b>Data Leak Assesment - Creating a Security Plan</b>
 
 <h3><a href = "https://github.com/kendalldollarton/kendalldollarton/files/14336610/Data.leak.worksheet.pdf">VData Leak <a/><h3/>
 
