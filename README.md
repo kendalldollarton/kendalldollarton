@@ -1,4 +1,4 @@
-<h1>Welcome, I'm Kendall! <a href="https://www.linkedin.com/in/kendalldollarton/">
+<h1>Welcome, I'm Kendall! Information Technology & Cybersecurity Professional
   
 <h2>👨‍💻 Information Technology/ Cybersecurity Projects:</h2>
 
